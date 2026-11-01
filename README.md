@@ -127,12 +127,6 @@ All application screenshots are stored in [`docs/screenshots/`](docs/screenshots
 - Website: [pg513.in](https://pg513.in)
 - GitHub: [@pravinga513](https://github.com/pravinga513)
 
-## Before Publishing
-
-The supplied screenshots visibly contain example names, contact details, email addresses, institute information and financial figures. **Review and redact any real or confidential personal, student, staff or business information before making this repository public.** Prefer synthetic demo records for public portfolio screenshots.
-
-Do not upload database files containing real records, credentials, API keys, private documents or other confidential assets.
-
 ---
 
 *DV-ONE — Aviation Institute Management Suite*
